@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Biological Anthropology"
+    ],
+    [
+      "Social Science",
+      "Archaeology"
+    ]
+  ],
+  "legacy_uid": "91934058-55be-b4c9-bc60-6d24c846beeb",
+  "instructors": {
+    "content": [
+      "96cadf39-fa58-0db7-5c75-71cb85093647"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "245d13a6-2d5a-d4a2-d7d9-3c9a02935f03",
+    "website": "3-987-human-origins-and-evolution-spring-2006"
+  },
+  "course_title": "Human Origins and Evolution",
+  "course_description": "This course examines the dynamic interrelations among physical and behavioral traits of humans, environment, and culture to provide an integrated framework for studying human biological evolution and modern diversity. Topics include issues in morphological evolution and adaptation; fossil and cultural evidence for human evolution from earliest times through the Pleistocene; evolution of tool use and social behavior; modern human variation and concepts of race. The class also studies stone artifacts and fossil specimens.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.987",
+  "course_image_thumbnail": {
+    "content": "8cebf94f-238b-c5eb-9eff-a5c30c8f65de",
+    "website": "3-987-human-origins-and-evolution-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "9b6cccea-59d3-4b45-8aa4-529e35c93d4b",
+  "site_short_id": "3.987-spring-2006",
+  "title": "Course Metadata"
+}
